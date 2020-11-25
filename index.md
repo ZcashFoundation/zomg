@@ -1,8 +1,13 @@
-# We are a community-elected grants committee that spreads financial privacy by funding Zcash projects.
+# Zcash Open Major Grants
+{: .fs-9 }
 
-* [What we fund](#what-we-fund)
-* [How to apply](#how-to-apply)
-* [Follow us on Twitter](https://twitter.com/zcashomg)
+ZOMG is a community-elected grants committee that funds Zcash-related projects in order to bring financial privacy to everyone in the world.
+
+{: .fs-6 .fw-300 }
+
+[How to apply](#how-to-apply){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Learn more](#about-zomg){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
 
 ## About ZOMG
 
@@ -128,4 +133,7 @@ These are some examples of things we'd like to fund. This purpose of this wishli
 * Evaluation published on a dedicated website and Zcash Forum
 * Community feedback/reactions to generate learnings for future grants
 
+## Interested in applying?
 
+* [Follow us on Twitter](https://twitter.com/zcashomg)
+* [Ask us a question](https://forum.zcashcommunity.com/c/Grants/33) in the Zcash community forums
