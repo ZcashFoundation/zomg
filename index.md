@@ -133,7 +133,11 @@ These are some examples of things we'd like to fund. This purpose of this wishli
 * Evaluation published on a dedicated website and Zcash Forum
 * Community feedback/reactions to generate learnings for future grants
 
-## Interested in applying?
+Ready to apply?
+
+[Apply now](https://grants.zfnd.org/create-request){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+## Curious to learn more?
 
 * [Follow us on Twitter](https://twitter.com/zcashomg)
 * [Ask us a question](https://forum.zcashcommunity.com/c/Grants/33) in the Zcash community forums
