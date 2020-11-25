@@ -1,13 +1,11 @@
-# Zcash Open Major Grants (ZOMG!)
-
-## Awarding ZEC grants to the Zcash community since 2020
+# Awarding ZEC grants to the Zcash community since 2020
 
 * [Learn more & apply]()
 * [What we'd fund]()
 * [How to apply]()
 * [Follow us on Twitter](https://twitter.com/zcashomg)
 
-### About ZOMG
+## About ZOMG
 
 ZOMG (Zcash Open Major Grants) exists to fund projects that advance the usability, security, privacy, and adoption of Zcash, a privacy-focused cryptocurrency. 
 
@@ -19,7 +17,7 @@ Grants are chosen by a committee of [five members](https://forum.zcashcommunity.
 
 Are you interested in receiving funding for a Zcash-related project? Learn more about [what we’d fund] and [how to apply]()! 
 
-### What we'd fund
+## What we'd fund
 
 Wallets
 Zcash hardware wallet support
@@ -72,7 +70,7 @@ User education: TvsZ addresses, Zcash vs other tech,
 Websites with educational resources 
 
 
-### How to apply
+## How to apply
 
 
 Make sure to be aware of the below before submitting an application
