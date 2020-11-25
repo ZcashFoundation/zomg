@@ -1,4 +1,4 @@
-# Awarding ZEC grants to the Zcash community since 2020
+# We are a community-elected grants committee that spreads financial privacy by funding Zcash projects.
 
 * [Learn more & apply]()
 * [What we'd fund]()
@@ -19,118 +19,70 @@ Are you interested in receiving funding for a Zcash-related project? Learn more 
 
 ## What we'd fund
 
-Wallets
-Zcash hardware wallet support
-Key-management tools
-Physical storage (paper wallets or lightweight hardware) for z-addresses
-Shielded wallets for smartphones (zECC wallet on iOS/Android)
-Web wallets
-Payment URIs
-Easy one-click shielded payments
-Wallet API and SDK libraries
-React Native SDK and libraries
-Network layer privacy solutions for SDKs and libraries
-Performance improvements to SDKs and libraries
-Easy multi-sig tools for Z-addresses (e.g. an implementation of FROST in user-facing wallets)
-Point-of-sale for brick and mortar shops
+These are some examples of things we'd like to fund. This purpose of this wishlist is not to serve as an exhaustive list of everything that would be good for the Zcash ecosystem, but as a way to encourage ideas for developers. If your idea to improve Zcash doesn't fit exactly, feel free to surprise us with your proposal! 
 
-Core and Security
-Alternative implementations of ZebraD and ZcashD
-Solutions to any known privacy or security weakness
-Solutions to network layer privacy
-Security auditing for the core code, and protocols, popular libraries, and wallets
-ZK rollups for Zcash
-Smart Contracts
-State Channels
-Performance improvements to core code, protocols, and popular libraries
-Layer one scaling improvements
+### Wallets
 
-Interoperability
-Atomic swaps
-Zcash on Ethereum, wrapped ZEC 
-Stablecoins on Zcash, ZUSD
+* Zcash hardware wallet support
+* Key-management tools
+* Physical storage (paper wallets or lightweight hardware) for z-addresses
+* Shielded wallets for smartphones (zECC wallet on iOS/Android)
+* Web wallets
+* Payment URIs
+* Easy one-click shielded payments
+* Wallet API and SDK libraries
+* React Native SDK and libraries
+* Network layer privacy solutions for SDKs and libraries
+* Performance improvements to SDKs and libraries
+* Easy multi-sig tools for Z-addresses (e.g. an implementation of FROST in user-facing wallets)
+* Point-of-sale for brick and mortar shops
 
-Apps
-Applications built on top of Zcash network
+### Core and Security
 
-Formal verification
-Identify parts of the Zcash codebase that are security-critical and conducive to formal methods for proving correctness of code
-Use start-of-the-art formal verification tools to construct computer-checkable proofs of their correctness, with respect to suitable security specifications
-Ideas for such components: Sapling circuits (or parts thereof), Bellman cryptographic code (or parts thereof), consensus rules
+* Alternative implementations of ZebraD and ZcashD
+* Solutions to any known privacy or security weakness
+* Solutions to network layer privacy
+* Security auditing for the core code, and protocols, popular libraries, and wallets
+* ZK rollups for Zcash
+* Smart Contracts
+* State Channels
+* Performance improvements to core code, protocols, and popular libraries
+* Layer one scaling improvements
+* Formal verification
+* Identify parts of the Zcash codebase that are security-critical and conducive to formal methods for proving correctness of code
+* Use start-of-the-art formal verification tools to construct computer-checkable proofs of their correctness, with respect to suitable security specifications
+* Ideas for such components: Sapling circuits (or parts thereof), Bellman cryptographic code (or parts thereof), consensus rules
 
-Ongoing Services
-Accurate blockchain explorer
-Proving key distribution
-Light client servers / infrastructure
+### Interoperability
 
-Education
-Improving “Zcash Protocol Spec” for developers 
-Videos and tutorials about how to use Zcash securely
-User education: TvsZ addresses, Zcash vs other tech,  
-Websites with educational resources 
+* Atomic swaps
+* Zcash on Ethereum, wrapped ZEC 
+* Stablecoins on Zcash, ZUSD
+
+### Apps
+
+* Applications built on top of Zcash network
+
+### Ongoing Services 
+
+* Accurate blockchain explorer
+* Proving key distribution
+* Light client servers / infrastructure
+
+### Education
+
+* Improving “Zcash Protocol Spec” for developers 
+* Videos and tutorials about how to use Zcash securely
+* User education: TvsZ addresses, Zcash vs other tech
+* Websites with educational resources 
 
 
 ## How to apply
 
+1. Make sure to be aware of the below before submitting an application
+* Sub step 
+* Another sub step
+2. Submit application 
+* Sub step 
+* Another sub step
 
-Make sure to be aware of the below before submitting an application
-If approved, applicants will need to go through a KYC process to be eligible for funding
-Applications can be submitted on a rolling basis, but will be reviewed every other week
-The larger the requested sum, the more diligence and milestones required 
-Questions can be posted to the Zcash forum tagging @ZOMG, prior to submission
-
-Submit application 
-From ZcashOMG.org there’s a link to the ZF grants platform
-INSERT PICTURE OF BUTTON
-
-Form requires a complete submission 
-Checklist with essential eligibility requirements (format, detail, content, metrics)
-Applications that don’t/can’t meet essential requirements can’t be submitted
-
-Application published on the Zcash Forum under ZOMG Applicants
-Community temperature check and crowdsourcing due diligence
-Based on community reactions, ZOMG/applicant may introduce changes
-
-ZOMG Members rank 0-3 on shared sheet, greenlight in Bi-Weekly Meeting
-Quick review by all ZOMG members to post to sheet and prepare for bi-weekly
-Conversation to proceed with diligence or nix is had in the bi-weekly
-Ineligible applications shouldn't get to and definitely not pass this stage
-
-ZOMG may request improvements to application and perform additional diligence
-ZOMG may include outside experts in the process
-ZOMG will review grantee’s previous grant outcomes, if any.
-
-Application finalized with requested improvements
-Finalized application must meet all requirements 
-
-ZOMG votes on whether to approve the application or not in bi-weekly
-Simple majority (3 of 5) with the ability for a strong-veto to halt approval and require more discussion.
-
-ZOMG publishes its final decision in batches, post bi-weekly approvals
-Published decision should include a short explanation of reasoning
-Decision and explanation published on ZOMG website and Zcash Forum
-
-Formal grant agreement between applicant and ZOMG/ZF
-Preparing and signing any required documentation
-Agreement should specify budgets, deliverables, reporting, and disclosures
-Budgets structured with concrete milestones based on size and timeline
-
-Funds disbursed by ZF / Work funded through the grant begins
-
-Interim check ins, support, reports, evaluation / Additional funds disbursed by ZF
-ZOMG and ZF provide necessary support over the duration of the grant period
-Quarterly reports, monthly public dev calls or report, annual report (incl. financial), may be needed depending on scope of the project
-ZOMG allocates and performs work for interim evaluation
-ZF disburses additional funds based on predefined milestones
-Interim reports submitted on Grants.io platform and posted to the Forum in the same thread as original application 
-ZF to review interim reports before signing off on disbursement of additional funds
-
-Option to apply for additional funding to continue the project
-Depending on the circumstances, this may happen prior to current grant ending
-
-Grant period ends / Applicant delivers final report
-Final report posted to the Forum in the same thread as original application 
-
-ZOMG performs and publishes final evaluation
-Evaluation published on a dedicated website and Zcash Forum
-Community feedback/reactions to generate learnings for future grants
