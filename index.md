@@ -1,8 +1,7 @@
 # We are a community-elected grants committee that spreads financial privacy by funding Zcash projects.
 
-* [Learn more & apply]()
-* [What we'd fund]()
-* [How to apply]()
+* [What we fund](#what-we-fund)
+* [How to apply](#how-to-apply)
 * [Follow us on Twitter](https://twitter.com/zcashomg)
 
 ## About ZOMG
@@ -15,9 +14,9 @@ ZOMG’s funds come from the decision in ZIP 1014 to allocate a portion of all n
 
 Grants are chosen by a committee of [five members](https://forum.zcashcommunity.com/t/inaugural-post-in-mgrc-updates/37410) who were chosen by the [Zcash Community Advisory Panel](https://www.zfnd.org/governance/community-advisory-panel/) in an [open election](https://vote.heliosvoting.org/helios/elections/fd30d13c-e010-11ea-88f3-4a6a23563c24/view). 
 
-Are you interested in receiving funding for a Zcash-related project? Learn more about [what we’d fund] and [how to apply]()! 
+Are you interested in receiving funding for a Zcash-related project? Learn more about [what we fund](#what-we-fund) and [how to apply](#how-to-apply)! 
 
-## What we'd fund
+## What we fund
 
 These are some examples of things we'd like to fund. This purpose of this wishlist is not to serve as an exhaustive list of everything that would be good for the Zcash ecosystem, but as a way to encourage ideas for developers. If your idea to improve Zcash doesn't fit exactly, feel free to surprise us with your proposal! 
 
