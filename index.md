@@ -111,6 +111,8 @@ These are some examples of things we'd like to fund. This purpose of this wishli
 * Agreement should specify budgets, deliverables, reporting, and disclosures
 * Budgets structured with concrete milestones based on size and timeline
 11. Funds disbursed by ZF / Work funded through the grant begins
+* ZF will request a Zcash z-address from the grantee
+* ZF disburses funds in ZEC
 12. Interim check ins, support, reports, evaluation / Additional funds disbursed by ZF
 * ZOMG and ZF provide necessary support over the duration of the grant period
 * Quarterly reports, monthly public dev calls or report, annual report (incl. financial), may be needed depending on scope of the project
