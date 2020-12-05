@@ -5,13 +5,13 @@ Interested in applying? Be sure to read and understand the grant application pro
 ## Application process
 
 1. Make sure to be aware of the below before submitting an application
-   * If approved, applicants will need to go through a KYC process to be eligible for funding, though they can remain pseudonymous to the public. 
-   * Applications can be submitted on a rolling basis, but will be reviewed every other week
-   * The larger the requested sum, the more diligence and milestones required 
-   * Questions can be posted to the Zcash forum tagging @ZOMG, prior to submission
+* If approved, applicants will need to go through a KYC process to be eligible for funding, though they can remain pseudonymous to the public. 
+* Applications can be submitted on a rolling basis, but will be reviewed every other week
+* The larger the requested sum, the more diligence and milestones required 
+* Questions can be posted to the Zcash forum tagging @ZOMG, prior to submission
 2. Submit application 
-   * From ZcashOMG.org there’s a link to the ZF grants platform
-* Submit application here. Will require creating an account. 
+* From ZcashOMG.org there’s a link to the ZF grants platform
+* Once you have finished reading about the application process and understand it, [submit your application here](https://grants.zfnd.org/create-request). This will require creating an account. 
 3. Form requires a complete submission 
 * Checklist with essential eligibility requirements (format, detail, content, metrics)
 * Applications that don’t/can’t meet essential requirements can’t be submitted
@@ -37,8 +37,8 @@ Interested in applying? Be sure to read and understand the grant application pro
 * Agreement should specify budgets, deliverables, reporting, and disclosures
 * Budgets structured with concrete milestones based on size and timeline
 11. Funds disbursed by ZF / Work funded through the grant begins
-   * ZF will request a z-address from the grantee
-   * ZF disburses funds in ZEC
+* ZF will request a z-address from the grantee
+* ZF disburses funds in ZEC
 12. Interim check ins, support, reports, evaluation / Additional funds disbursed by ZF
 * ZOMG and ZF provide necessary support over the duration of the grant period
 * Quarterly reports, monthly public dev calls or report, annual report (incl. financial), may be needed depending on scope of the project
