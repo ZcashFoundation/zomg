@@ -56,6 +56,6 @@ Interested in applying? Be sure to read and understand the grant application pro
 
 ## Ready to apply?
 
-Are you ready to apply? The next step is to visit the Zcash Grants portal, create an account, and begin your application.  
+The next step is to visit the Zcash Grants portal, create an account, and begin your application.  
 
 [Apply now](https://grants.zfnd.org/create-request){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
