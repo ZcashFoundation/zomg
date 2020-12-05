@@ -1,6 +1,8 @@
 # How to apply
 
-This is the current process for applying for a ZOMG grant.
+Interested in applying? Be sure to read and understand the grant application process first. Then follow the link below to apply.
+
+## Application process
 
 1. Make sure to be aware of the below before submitting an application
 * If approved, applicants will need to go through a KYC process to be eligible for funding
@@ -52,6 +54,8 @@ This is the current process for applying for a ZOMG grant.
 * Evaluation published on a dedicated website and Zcash Forum
 * Community feedback/reactions to generate learnings for future grants
 
-Ready to apply?
+## Ready to apply?
+
+Are you ready to apply? The next step is to visit the Zcash Grants portal, create an account, and begin your application.  
 
 [Apply now](https://grants.zfnd.org/create-request){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
