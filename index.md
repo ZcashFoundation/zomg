@@ -10,7 +10,7 @@ ZOMG is a community-elected grants committee that funds Zcash-related projects i
 
 {: .fs-6 .fw-300 }
 
-[How to apply]({{ site.baseurl }}{% link how-to-apply.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Learn more](#about-zomg){: .btn .fs-5 .mb-4 .mb-md-0 }
+[How to apply]({{ site.baseurl }}{% link how-to-apply.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [What we fund]({{ site.baseurl }}{% link what-we-fund.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
