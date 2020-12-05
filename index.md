@@ -9,7 +9,7 @@ ZOMG is a community-elected grants committee that funds Zcash-related projects i
 
 {: .fs-6 .fw-300 }
 
-[How to apply]{% link how-to-apply.md %}{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Learn more](#about-zomg){: .btn .fs-5 .mb-4 .mb-md-0 }
+[How to apply]({{ site.baseurl }}{% link how-to-apply.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Learn more](#about-zomg){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -23,7 +23,7 @@ ZOMG’s funds come from the decision in ZIP 1014 to allocate a portion of all n
 
 Grants are chosen by a committee of [five members](https://forum.zcashcommunity.com/t/inaugural-post-in-mgrc-updates/37410) who were chosen by the [Zcash Community Advisory Panel](https://www.zfnd.org/governance/community-advisory-panel/) in an [open election](https://vote.heliosvoting.org/helios/elections/fd30d13c-e010-11ea-88f3-4a6a23563c24/view). 
 
-Are you interested in receiving funding for a Zcash-related project? Learn more about [what we fund]{% link what-we-fund.md %} and [how to apply]{% link how-to-apply.md %}! 
+Are you interested in receiving funding for a Zcash-related project? Learn more about [what we fund]({{ site.baseurl }}{% link what-we-fund.md %}) and [how to apply]({{ site.baseurl }}{% link how-to-apply.md %})! 
 
 ## Curious to learn more?
 
