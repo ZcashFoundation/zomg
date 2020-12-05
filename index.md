@@ -1,3 +1,7 @@
+---
+nav_order: 1
+---
+
 # Zcash Open Major Grants
 {: .fs-9 }
 
