@@ -5,13 +5,13 @@ Interested in applying? Be sure to read and understand the grant application pro
 ## Application process
 
 1. Make sure to be aware of the below before submitting an application
-* If approved, applicants will need to go through a KYC process to be eligible for funding
-* Applications can be submitted on a rolling basis, but will be reviewed every other week
-* The larger the requested sum, the more diligence and milestones required 
-* Questions can be posted to the Zcash forum tagging @ZOMG, prior to submission
+   * If approved, applicants will need to go through a KYC process to be eligible for funding, though they can remain pseudonymous to the public. 
+   * Applications can be submitted on a rolling basis, but will be reviewed every other week
+   * The larger the requested sum, the more diligence and milestones required 
+   * Questions can be posted to the Zcash forum tagging @ZOMG, prior to submission
 2. Submit application 
-* From ZcashOMG.org there’s a link to the ZF grants platform
-* INSERT PICTURE OF BUTTON
+   * From ZcashOMG.org there’s a link to the ZF grants platform
+* Submit application here. Will require creating an account. 
 3. Form requires a complete submission 
 * Checklist with essential eligibility requirements (format, detail, content, metrics)
 * Applications that don’t/can’t meet essential requirements can’t be submitted
@@ -31,14 +31,14 @@ Interested in applying? Be sure to read and understand the grant application pro
 * Simple majority (3 of 5) with the ability for a strong-veto to halt approval and require more discussion.
 9. ZOMG publishes its final decision in batches, post bi-weekly approvals
 * Published decision should include a short explanation of reasoning
-* Decision and explanation published on ZOMG website and Zcash Forum
+* Decision and explanation published on Zcash Forum
 10. Formal grant agreement between applicant and ZOMG/ZF
 * Preparing and signing any required documentation
 * Agreement should specify budgets, deliverables, reporting, and disclosures
 * Budgets structured with concrete milestones based on size and timeline
 11. Funds disbursed by ZF / Work funded through the grant begins
-* ZF will request a Zcash z-address from the grantee
-* ZF disburses funds in ZEC
+   * ZF will request a z-address from the grantee
+   * ZF disburses funds in ZEC
 12. Interim check ins, support, reports, evaluation / Additional funds disbursed by ZF
 * ZOMG and ZF provide necessary support over the duration of the grant period
 * Quarterly reports, monthly public dev calls or report, annual report (incl. financial), may be needed depending on scope of the project
