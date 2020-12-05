@@ -2,7 +2,7 @@
 
 These are some examples of things ZOMG would like to fund. This purpose of this wishlist is not to serve as an exhaustive list of everything that would be good for the Zcash ecosystem, but as a way to encourage ideas for developers. If your idea to improve Zcash doesn't fit exactly, feel free to surprise us with your proposal! 
 
-**Wallets**
+## Wallets
 
 * Zcash hardware wallet support
 * Key-management tools
@@ -18,7 +18,7 @@ These are some examples of things ZOMG would like to fund. This purpose of this 
 * Easy multi-sig tools for Z-addresses (e.g. an implementation of FROST in user-facing wallets)
 * Point-of-sale for brick and mortar shops
 
-**Core and Security**
+## Core and Security
 
 * Alternative implementations of ZebraD and ZcashD
 * Solutions to any known privacy or security weakness
@@ -34,23 +34,23 @@ These are some examples of things ZOMG would like to fund. This purpose of this 
 * Use start-of-the-art formal verification tools to construct computer-checkable proofs of their correctness, with respect to suitable security specifications
 * Ideas for such components: Sapling circuits (or parts thereof), Bellman cryptographic code (or parts thereof), consensus rules
 
-**Interoperability**
+## Interoperability
 
 * Atomic swaps
 * Zcash on Ethereum, wrapped ZEC 
 * Stablecoins on Zcash, ZUSD
 
-**Apps**
+## Apps
 
 * Applications built on top of Zcash network
 
-**Ongoing Services** 
+## Ongoing Services
 
 * Accurate blockchain explorer
 * Proving key distribution
 * Light client servers / infrastructure
 
-**Education**
+## Education
 
 * Improving “Zcash Protocol Spec” for developers 
 * Videos and tutorials about how to use Zcash securely
