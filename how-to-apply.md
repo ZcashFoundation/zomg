@@ -1,3 +1,7 @@
+---
+nav_order: 2
+---
+
 # How to apply
 
 Interested in applying for a grant from ZOMG? **Please take the time to review this entire page before submitting an application.**
