@@ -10,7 +10,6 @@ Interested in applying for a grant from ZOMG? **Please take the time to review t
 * Applications can be submitted at any time, but they will be reviewed on a rolling basis, approximately once every two weeks. 
 * The larger the requested sum, the more time we may require to evaluate your proposal, and funding will be divided into several milestone-based payouts.
 * [Here is a wishlist of things we want to fund](https://zcashomg.org/what-we-fund.html). This list is non-exclusive, but your project should apply directly to Zcash or its ecosystem.
-* You can read about our selection process [here](https://zcashomg.org/selection-process.html)
 
 If you are not sure you are ready to submit an application, please feel free to post your idea to the forums in the [Grants](https://forum.zcashcommunity.com/c/Grants/33) category to solicit feedback. You can tag @ZOMG on the forums to ask questions. 
 
@@ -29,7 +28,7 @@ If you are not sure you are ready to submit an application, please feel free to 
 4. ZOMG will vote during its bi-weekly meetings for a final approval or rejection of your grant. We strive to make this process as fast as possible while maintaining adequate due diligence. Our bi-weekly cadence means your application could be approved or rejected in just a few weeks. 
 5. You will be notified on the forums and the grants platform that your grant has been approved or rejected.
 
-For more about the steps we'll go through to evaluate your application, you can also read the public documentation of our [selection process]({{ site.baseurl }}{% link selection-process.md %}).
+For more about the steps we will go through to evaluate your application, you can also read the public documentation of our [selection process]({{ site.baseurl }}{% link selection-process.md %}).
 
 ## If you're approved
 
