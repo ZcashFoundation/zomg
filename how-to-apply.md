@@ -16,15 +16,13 @@ If you are not sure you are ready to submit an application, please feel free to 
 
 ## Application steps
 
-To apply, please follow these steps:
-
 1. First, create an account and submit your application [here](https://grants.zfnd.org/create-request). This is the most important step, so please be as complete as possible! We need to know what you are doing, why you are doing it, and your experience with this kind of project. 
 2. After you submit your application, it will be put into a queue to await moderator approval. Once your application is approved by a grants platform moderator, you will receive an email notification with a public link to your application. 
 3. When you receive the notification that your application is public, please post a link to it on the [Zcash Community Forum](https://forum.zcashcommunity.com/c/Grants/Applications/36) in the "applicants" category. (This step is to gather community feedback about your project. Be ready for some honest feedback, questions, and engagement with Zcash community members!)
 
-## What to expect
+## What to expect from us
 
-This is roughly what you should expect from us. We also welcome you to read the public documentation of our [selection process]({{ site.baseurl }}{% link selection-process.md %}) for more information.
+The following is roughly what you should expect from ZOMG. You can also read the public documentation of our [selection process]({{ site.baseurl }}{% link selection-process.md %}).
 
 1. Once you have posted your application to the grants platform and the forum, ZOMG will evaluate it, review community feedback on a rolling basis, and post a preliminary _yes_ or _no_ to continue with the application process, in your forum thread.
 2. If you receive a _no_, your application will be closed on the grants platform and an explanation will be posted on your forum thread.  
@@ -36,7 +34,7 @@ If you are approved for a grant, congratulations! You will be put in touch with 
 
 One you are working on your project you will be required to post community updates and milestone achievements as defined in your application. Once the project is complete we will post a final evaluation on your forum thread. At this point you can apply for additional funding.
 
-# Ready to apply?
+## Ready to apply?
 
 The next step is to visit the Zcash Grants portal, create an account, and begin your application.
 
