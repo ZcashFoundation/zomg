@@ -1,5 +1,6 @@
 ---
 title: About us
+image: "/assets/zomg-logo2.png"
 nav_order: 1
 ---
 
