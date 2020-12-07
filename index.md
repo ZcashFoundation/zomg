@@ -21,7 +21,9 @@ ZOMG (Zcash Open Major Grants) exists to fund projects that advance the usabilit
 
 Formerly known as the Major Grants Review Committee, ZOMG was created by community members of the Zcash cryptocurrency in [ZIP 1014](https://zips.z.cash/zip-1014), working within the Zcash governance process.
 
-ZOMG’s funds come from the decision in ZIP 1014 to allocate a portion of all newly created Zcash —over a four year period—to the ZOMG. 
+ZOMG’s funds come from the decision in ZIP 1014 to allocate a portion of all newly created Zcash —over a four year period—to the ZOMG.
+
+Legally speaking, ZOMG is a technology advisory board that constitutes a committee of the Zcash Foundation, under its [bylaws](https://www.zfnd.org/about/incorporation-docs/2020-12-01-bylaws-amendment-3/).
 
 Grants are chosen by a committee of [five members](https://forum.zcashcommunity.com/t/inaugural-post-in-mgrc-updates/37410) who were chosen by the [Zcash Community Advisory Panel](https://www.zfnd.org/governance/community-advisory-panel/) in an [open election](https://vote.heliosvoting.org/helios/elections/fd30d13c-e010-11ea-88f3-4a6a23563c24/view). 
 
