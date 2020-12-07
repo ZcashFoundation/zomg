@@ -1,5 +1,4 @@
 ---
-title: About us
 nav_order: 4
 ---
 
