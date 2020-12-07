@@ -31,11 +31,13 @@ If you are not sure you are ready to submit an application, please feel free to 
 
 For more about the steps we'll go through to evaluate your application, you can also read the public documentation of our [selection process]({{ site.baseurl }}{% link selection-process.md %}).
 
+## If you're approved
+
 If you are approved for a grant, congratulations! You will be put in touch with the [Zcash Foundation](https://www.zfnd.org/) to gather your payment details and complete the required KYC documentation. 
 
 One you are working on your project you will be required to post community updates and milestone achievements as defined in your application. 
 
-Once the project is complete we will post a final evaluation on your forum thread. At this point you can apply for additional funding.
+Once the project is complete we will post a final evaluation on your forum thread. At this point you are free to apply again for additional funding.
 
 ## Ready to apply?
 
