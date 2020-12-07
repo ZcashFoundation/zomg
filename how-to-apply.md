@@ -1,6 +1,6 @@
 # How to apply
 
-**Please take the time to review this entire page before submitting an application.**
+Interested in applying for a grant from ZOMG? **Please take the time to review this entire page before submitting an application.**
 
 * If your grant is approved you will have to go through a Know Your Customer (KYC) process and sign legal documentation with the Zcash Foundation prior to receiving any funds.  
 * Applications can be submitted anytime but will be reviewed on a every other week basis. 
