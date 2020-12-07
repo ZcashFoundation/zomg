@@ -1,61 +1,41 @@
 # How to apply
 
-Interested in applying? Be sure to read and understand the grant application process first. Then follow the link below to apply.
+**Please take the time to review this entire page before submitting an application**
 
-## Application process
+* If your Grant is approved you will have to go through a Know Your Customer (KYC) process and sign legal documentation with the Zcash Foundation prior to receiving any funds.  
+* Applications can be submitted anytime but will be reviewed on a every other week basis. 
+The larger the requested sum the more likely the ZOMG will require more time to evaluate your proposal, as well as requiring more milestone payouts.
+* [Here is a wishlist of things we may fund](https://zcashomg.org/what-we-fund.html), though the list is not exclusive it should directly apply to Zcash.
+* You can read about our complete internal evaluation process HERE (link to "evaluation process" page needed)
 
-1. Make sure to be aware of the below before submitting an application
-* If approved, applicants will need to go through a KYC process to be eligible for funding, though they can remain pseudonymous to the public. 
-* Applications can be submitted on a rolling basis, but will be reviewed every other week
-* The larger the requested sum, the more diligence and milestones required 
-* Questions can be posted to the Zcash forum tagging @ZOMG, prior to submission
-2. Submit application 
-* From ZcashOMG.org there’s a link to the ZF grants platform
-* Once you have finished reading about the application process and understand it, [submit your application here](https://grants.zfnd.org/create-request). This will require creating an account. 
-3. Form requires a complete submission 
-* Checklist with essential eligibility requirements (format, detail, content, metrics)
-* Applications that don’t/can’t meet essential requirements can’t be submitted
-4. Application published on the Zcash Forum under ZOMG Applicants
-* Community temperature check and crowdsourcing due diligence
-* Based on community reactions, ZOMG/applicant may introduce changes
-5. ZOMG Members rank 0-3 on shared sheet, greenlight in Bi-Weekly Meeting
-* Quick review by all ZOMG members to post to sheet and prepare for bi-weekly
-* Conversation to proceed with diligence or nix is had in the bi-weekly
-* Ineligible applications shouldn't get to and definitely not pass this stage
-6. ZOMG may request improvements to application and perform additional diligence
-* ZOMG may include outside experts in the process
-* ZOMG will review grantee’s previous grant outcomes, if any.
-7. Application finalized with requested improvements
-* Finalized application must meet all requirements 
-8. ZOMG votes on whether to approve the application or not in bi-weekly
-* Simple majority (3 of 5) with the ability for a strong-veto to halt approval and require more discussion.
-9. ZOMG publishes its final decision in batches, post bi-weekly approvals
-* Published decision should include a short explanation of reasoning
-* Decision and explanation published on Zcash Forum
-10. Formal grant agreement between applicant and ZOMG/ZF
-* Preparing and signing any required documentation
-* Agreement should specify budgets, deliverables, reporting, and disclosures
-* Budgets structured with concrete milestones based on size and timeline
-11. Funds disbursed by ZF / Work funded through the grant begins
-* ZF will request a z-address from the grantee
-* ZF disburses funds in ZEC
-12. Interim check ins, support, reports, evaluation / Additional funds disbursed by ZF
-* ZOMG and ZF provide necessary support over the duration of the grant period
-* Quarterly reports, monthly public dev calls or report, annual report (incl. financial), may be needed depending on scope of the project
-* ZOMG allocates and performs work for interim evaluation
-* ZF disburses additional funds based on predefined milestones
-* Interim reports submitted on Grants.io platform and posted to the Forum in the same thread as original application 
-* ZF to review interim reports before signing off on disbursement of additional funds
-13. Option to apply for additional funding to continue the project
-* Depending on the circumstances, this may happen prior to current grant ending
-14. Grant period ends / Applicant delivers final report
-* Final report posted to the Forum in the same thread as original application 
-15. ZOMG performs and publishes final evaluation
-* Evaluation published on a dedicated website and Zcash Forum
-* Community feedback/reactions to generate learnings for future grants
+_If you are not sure if you are ready to submit an official application_ for a Grant please feel free to post your idea on the forums in the [Grants](https://forum.zcashcommunity.com/c/Grants/33) category to gather feedback. You can tag @ZOMG on the forums to ask questions. 
 
-## Ready to apply?
+# What to expect: 
 
-The next step is to visit the Zcash Grants portal, create an account, and begin your application.  
+1. First you will submit your application [here](https://grants.zfnd.org/create-request). This will require creating an account on the ZOMG grants platform
+   * Be as complete as possible! This is the most important step!
+   * We need to know what you are doing, why you are doing it, and your experience with this kind of project. 
+2. After submitting your application on the grants platform,  your application will be put into the grants platform cue. 
+3. Once approved on the grants platform by a moderator you will receive a notification and should then post your application on the [Zcash Community Forum](https://forum.zcashcommunity.com/c/Grants/Applications/36) in the applicants category.  
+   * This step is to gather community feedback about your project, be sure to link to your application. 
+   * Be ready for some honest feedback, questions, and engagement with Zcash community members!
+4. ZOMG will evaluate your application and review community feedback on a rolling basis and post a preliminary _Yes/No_ to continue with the application process in your thread.
+5. If you receive a _No_ your application will be closed on the grants platform and an explanation will be posted on your forum thread.  
+6. If you receive a tentative _Yes_ then ZOMG may request improvements to your application and perform additional due diligence:
+   *  This step may include asking outside experts to weigh in on technical aspects your project.
+   *  You may need to provide additional information about your project/ background/ experience.
+   *  You may be required to add milestones tied to incremental payouts to assure project follow through.
+7. ZOMG will vote during their bi-weekly meetings for a final Approval or Rejection of your Grant.
+   * We strive to make this process as fast as possible while maintaining adequate due diligence.
+   * Our bi-weekly cadence means your application could be approved or rejected in just a couple weeks time! 
+8. You will be notified on the forums and the grants platform that your Grant has been Approved or Rejected
 
+
+If you are approved for a Grant, Congratulations! You will be put in touch with the Zcash Foundation to gather your payment details and complete the required KYC documentation. 
+
+One you are working on your project you will be required to post community updates and milestone achievements as defined in your application. Once the project is complete we will post a final evaluation on your forum thread. Once the project is complete you can apply for additional funding.
+
+
+# Ready to apply?
+The next step is to visit the Zcash Grants portal, create an account, and begin your application.
 [Apply now](https://grants.zfnd.org/create-request){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
