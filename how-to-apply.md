@@ -14,7 +14,7 @@ The larger the requested sum the more likely the ZOMG will require more time to 
 
 If you are not sure if you are ready to submit an official application for a grant please feel free to post your idea on the forums in the [Grants](https://forum.zcashcommunity.com/c/Grants/33) category to gather feedback. You can tag @ZOMG on the forums to ask questions. 
 
-# What to expect: 
+# What to expect 
 
 1. First you will submit your application [here](https://grants.zfnd.org/create-request). This will require creating an account on the ZOMG grants platform
    * Be as complete as possible! This is the most important step!
