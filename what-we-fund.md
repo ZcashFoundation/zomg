@@ -4,7 +4,7 @@ nav_order: 3
 
 # What we fund
 
-These are some examples of things ZOMG would like to fund. This purpose of this wishlist is not to serve as an exhaustive list of everything that would be good for the Zcash ecosystem, but as a way to encourage ideas for developers. If your idea to improve Zcash doesn't fit exactly, feel free to surprise us with your proposal! 
+These are some examples of things ZOMG would like to fund. This purpose of this wishlist is not to serve as an exhaustive list of everything that would be good for the Zcash ecosystem, but as a way to encourage ideas for potential applicants. If your idea to improve Zcash doesn't fit exactly, feel free to surprise us with your proposal! 
 
 ## Wallets
 
