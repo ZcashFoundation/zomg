@@ -11,7 +11,7 @@ These are some examples of things ZOMG would like to fund. This purpose of this 
 * Zcash hardware wallet support
 * Key-management tools
 * Physical storage (paper wallets or lightweight hardware) for z-addresses
-* Shielded wallets for smartphones (zECC wallet on iOS/Android)
+* Shielded wallets for smartphones (e.g. zECC wallet on iOS/Android)
 * Web wallets
 * Payment URIs
 * Easy one-click shielded payments
@@ -24,13 +24,13 @@ These are some examples of things ZOMG would like to fund. This purpose of this 
 
 ## Core and Security
 
-* Alternative implementations of ZebraD and ZcashD
-* Solutions to any known privacy or security weakness
+* Alternative implementations of [zebra](https://github.com/ZcashFoundation/zebra) and [zcashd](https://github.com/zcash/zcash)
+* Solutions to any known privacy or security weakness (e.g. in the [wallet app threat model](https://zcash.readthedocs.io/en/latest/rtd_pages/wallet_threat_model.html))
 * Solutions to network layer privacy
-* Security auditing for the core code, and protocols, popular libraries, and wallets
+* Security auditing for core code, protocols, popular libraries, and wallets
 * ZK rollups for Zcash
-* Smart Contracts
-* State Channels
+* Smart contracts
+* State channels
 * Performance improvements to core code, protocols, and popular libraries
 * Layer one scaling improvements
 * Formal verification
@@ -58,5 +58,5 @@ These are some examples of things ZOMG would like to fund. This purpose of this 
 
 * Improving “Zcash Protocol Spec” for developers 
 * Videos and tutorials about how to use Zcash securely
-* User education: TvsZ addresses, Zcash vs other tech
+* User education: t-addresses vs. z-addresses, Zcash vs other tech
 * Websites with educational resources
