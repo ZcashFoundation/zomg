@@ -7,7 +7,7 @@ nav_order: 4
 As a democratically-elected body entrusted with allocating community resources, ZOMG aims to be as transparent as possible. This document describes our grant selection process, and will be updated as our process evolves. 
 
 1. Applicant should make sure to be aware of the below before submitting an application:
-* If approved, applicants will need to go through a KYC process to be eligible for funding, though they can remain pseudonymous to the public. 
+* If approved, applicants will need to go through a [KYC process](https://www.zfnd.org/about/aml-kyc-requirements/) to be eligible for funding, though they can remain pseudonymous to the public. 
 * Applications can be submitted on a rolling basis, but will be reviewed every other week.
 * The larger the requested sum, the more diligence and milestones required 
 * Questions can be posted to the Zcash forum tagging @ZOMG, prior to submission.
