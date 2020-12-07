@@ -9,8 +9,8 @@ Interested in applying for a grant from ZOMG? **Please take the time to review t
 * If your grant is approved you will have to go through a Know Your Customer (KYC) process and sign legal documentation with the Zcash Foundation prior to receiving any funds.  
 * Applications can be submitted anytime but will be reviewed on a every other week basis. 
 The larger the requested sum the more likely the ZOMG will require more time to evaluate your proposal, as well as requiring more milestone payouts.
-* [Here is a wishlist of things we may fund](https://zcashomg.org/what-we-fund.html), though the list is not exclusive it should directly apply to Zcash.
-* You can read about our complete internal evaluation process HERE (link to "evaluation process" page needed)
+* [Here is a wishlist of things we may fund](https://zcashomg.org/what-we-fund.html), though the list is not exclusive your project should directly apply to Zcash or its ecosystem.
+* You can read about our selection process [here](https://zcashomg.org/selection-process.html)
 
 If you are not sure if you are ready to submit an official application for a grant please feel free to post your idea on the forums in the [Grants](https://forum.zcashcommunity.com/c/Grants/33) category to gather feedback. You can tag @ZOMG on the forums to ask questions. 
 
