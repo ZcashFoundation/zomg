@@ -41,7 +41,7 @@ As a democratically-elected body entrusted with allocating community resources, 
 11. Funds are disbursed by ZF and funded work begins.
 * ZF will request a z-address from the grantee.
 * ZF will disburse funds in ZEC.
-12. Interim check ins, support, reports, evaluation, and additional funds disbursed by ZF
+12. Interim check ins, support, reports, evaluation, and additional funds disbursed by ZF.
 * ZOMG and ZF will provide necessary support over the duration of the grant period.
 * Quarterly reports, monthly public dev calls or reports, annual reports (including financials) may be needed depending on scope of the project.
 * ZOMG allocates and performs work for interim evaluations.
