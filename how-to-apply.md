@@ -6,7 +6,7 @@ nav_order: 2
 
 Interested in applying for a grant from ZOMG? **Please take the time to review this entire page before submitting an application.**
 
-* If your grant is approved you will have to go through a Know Your Customer (KYC) process and sign legal documentation with the Zcash Foundation prior to receiving any funds.  
+* If your grant is approved you will have to go through a [Know Your Customer (KYC) process](https://www.zfnd.org/about/aml-kyc-requirements) and sign legal documentation with the Zcash Foundation prior to receiving any funds.  
 * Applications can be submitted at any time, but they will be reviewed on a rolling basis, approximately once every two weeks. 
 * The larger the requested sum, the more time we may require to evaluate your proposal, and funding will be divided into several milestone-based payouts.
 * [Here is a wishlist of things we want to fund](https://zcashomg.org/what-we-fund.html). This list is non-exclusive, but your project should apply directly to Zcash or its ecosystem.
@@ -32,9 +32,9 @@ For more about the steps we will go through to evaluate your application, you ca
 
 ## If you're approved
 
-If you are approved for a grant, congratulations! You will be put in touch with the [Zcash Foundation](https://www.zfnd.org/) to gather your payment details and complete the required KYC documentation. 
+If you are approved for a grant, congratulations! You will be put in touch with the [Zcash Foundation](https://www.zfnd.org/) to gather your payment details and complete the required [KYC documentation](https://www.zfnd.org/about/aml-kyc-requirements). 
 
-One you are working on your project you will be required to post community updates and milestone achievements as defined in your application. 
+Once you are working on your project you will be required to post community updates and milestone achievements as defined in your application. 
 
 Once the project is complete we will post a final evaluation on your forum thread. At this point you are free to apply again for additional funding.
 
