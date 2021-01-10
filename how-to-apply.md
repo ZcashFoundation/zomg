@@ -15,7 +15,7 @@ If you are not sure you are ready to submit an application, please feel free to 
 
 ## Steps to apply
 
-1. First, create an account and submit your application [here](https://grants.zfnd.org/create-request). This is the most important step, so please be as complete as possible! We need to know what you are doing, why you are doing it, and your experience with this kind of project. 
+1. First, create an account and submit your application [here](https://grants.zfnd.org/create) This is the most mportant step, so please be as complete as possible! We need to know what you are doing, why you are doing it, and your experience with this kind of project. 
 2. After you submit your application, it will be put into a queue to await moderator approval. Once your application is approved by a grants platform moderator, you will receive an email notification with a public link to your application. 
 3. When you receive the notification that your application is public, please post a link to it on the [Zcash Community Forum](https://forum.zcashcommunity.com/c/Grants/Applications/36) in the "applicants" category. This step is to gather community feedback about your project.
 4. Respond to our questions and to any community feedback in the forum thread. This part of the process is open to the general public, so be ready for some honest feedback, questions, and engagement with Zcash community members!
@@ -42,4 +42,4 @@ Once the project is complete we will post a final evaluation on your forum threa
 
 The next step is to visit the Zcash Grants portal, create an account, and begin your application.
 
-[Apply now](https://grants.zfnd.org/create-request){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Apply now](https://grants.zfnd.org/create){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
