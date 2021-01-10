@@ -13,7 +13,7 @@ As a democratically-elected body entrusted with allocating community resources, 
 * Questions can be posted to the Zcash forum tagging @ZOMG, prior to submission.
 2. Applicant submits application.
 * From ZcashOMG.org there’s a link to the ZF grants platform.
-* Once you have finished reading about the application process and understand it, [submit your application here](https://grants.zfnd.org/create-request). This will require creating an account. 
+* Once you have finished reading about the application process and understand it, [submit your application here](https://grants.zfnd.org/create). This will require creating an account. 
 3. Form requires a complete submission.
 * Checklist with essential eligibility requirements (format, detail, content, metrics) must be complete.
 * Applications that don’t/can’t meet essential requirements can’t be submitted.
