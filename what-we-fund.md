@@ -6,6 +6,8 @@ nav_order: 3
 
 These are some examples of things ZOMG would like to fund. This purpose of this wishlist is not to serve as an exhaustive list of everything that would be good for the Zcash ecosystem, but as a way to encourage ideas for potential applicants. If your idea to improve Zcash doesn't fit exactly, feel free to surprise us with your proposal! 
 
+Here's <a href="https://grants.zfnd.org/proposals/?filter=with_funding">what we've funded</a> so far. (Look for the "funded by ZOMG" label.)
+
 ## Wallets
 
 * Zcash hardware wallet support
