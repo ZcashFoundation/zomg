@@ -1,4 +1,6 @@
-﻿Zcash Open Major Grants (ZOMG) is pleased to announce a major grant award of $670,000 to the Tor Project to support work on a pure Rust implementation of the Tor Client. 
+\--Press Release June 5th 2021--
+
+Zcash Open Major Grants (ZOMG) is pleased to announce a major grant award of $670,000 to the Tor Project to support work on a pure Rust implementation of the Tor Client. 
 
 The Zcash Community believes that privacy is a fundamental human right and we are proud to support the Tor project. The Tor Project has been known to fight for everyone to have private access to an uncensored internet, and as a result Tor has become one of the world's strongest tools for privacy and freedom online. 
 
