@@ -3,6 +3,8 @@ nav_order: 5
 ---
 
 # The ZOMG whitepaper: how we see the world
+Date: 6 June 2021
+
 The 5-member ZOMG has been hard at work since November 2020, when we were formally established. We have vetted numerous proposals from the Zcash community since, and awarded grants to a wide variety of grant applications. 
 
 This whitepaper is an attempt to communicate the kinds of projects we would like to see apply for grants going forward, and to share the way we look at the world. It started out as a simple grant framework, and evolved into a whitepaper-style document as we felt that we needed to communicate the way we see the world in order for any grant framework to be coherent. 
