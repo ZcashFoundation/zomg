@@ -1,5 +1,13 @@
 ## ZOMG!
 
-A landing page (still in draft form) for the soon-to-be-renamed Zcash Major Grants Review Committee.
+Official Repo for Zcash Open Major Grants. 
 
-This site uses Jeckyl. Want to edit this site? See the [documentation](https://pmarsceill.github.io/just-the-docs/) for our Jeckyl theme or [Jeckyl docs](https://jekyllrb.com/docs/github-pages/) for Github Pages.
+
+ZOMG (Zcash Open Major Grants) exists to fund projects that advance the usability, security, privacy, and adoption of Zcash. 
+
+Find us online at [Zcashomg.org](https://zcashomg.org)
+
+
+## Contributions
+
+If you find an error on our website or documentation please feel free to submit a pull request.
