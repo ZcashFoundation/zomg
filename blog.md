@@ -15,4 +15,4 @@ This whitepaper is an attempt to communicate the kinds of projects we would like
 
 For builders and doers in the Zcash community, we encourage you to refer to this document as you think about what to build. The grant project ideas here have been reviewed by the Zcash Foundation and the Electric Coin Company, meaning that projects suggested in this document are likely to be value-adding to Zcash. 
 
-The whitepaper is currently in draft format, and we are seeking feedback and suggestions from the community. We have a rough goal of finalizing version 1.0 by the end of summer 2021, if not sooner. Please leave your comments on the Zcash community forums on this thread: https://forum.zcashcommunity.com/t/zomg-whitepaper-v1-0/39397. 
+The whitepaper is currently in draft format, and we are seeking feedback and suggestions from the community. We have a rough goal of finalizing version 1.0 by the end of summer 2021, if not sooner. Please leave your comments on the Zcash community forums on [this thread on the forum](https://forum.zcashcommunity.com/t/zomg-whitepaper-v1-0/39397).
