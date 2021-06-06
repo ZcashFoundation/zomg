@@ -11,9 +11,7 @@ The 5-member ZOMG has been hard at work since November 2020, when we were formal
 
 This whitepaper is an attempt to communicate the kinds of projects we would like to see apply for grants going forward, and to share the way we look at the world. It started out as a simple grant framework, and evolved into a whitepaper-style document as we felt that we needed to communicate the way we see the world in order for any grant framework to be coherent. 
 
-Here is the [whitepaper](https://github.com/ZcashFoundation/zomg/blob/master/whitepaper/ZOMG_whitepaper_v1.0_published.pdf). 
-
-[link to Google!](http://google.com)
+**Here is the [whitepaper](https://github.com/ZcashFoundation/zomg/blob/master/whitepaper/ZOMG_whitepaper_v1.0_published.pdf).**
 
 For builders and doers in the Zcash community, we encourage you to refer to this document as you think about what to build. The grant project ideas here have been reviewed by the Zcash Foundation and the Electric Coin Company, meaning that projects suggested in this document are likely to be value-adding to Zcash. 
 
