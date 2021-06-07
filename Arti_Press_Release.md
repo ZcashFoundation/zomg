@@ -7,7 +7,7 @@ The Zcash Community believes that privacy is a fundamental human right and we ar
 
 Named Arti, this newest implementation will be built from the ground up to give Tor a next generation codebase that will focus on flexibility in embedding, straightforward maintenance, flexible deployment, and performance. 
 
-Zcash is an open-source decentralized privacy protecting digital currency. Using zk-snarks, Zcash offers the strongest privacy available on a public blockchain. The primary Zcash client Zcashd can currently support connections over Tor but the user has several extra steps they have to go through to do so. Arti, when complete, will make it much easier for Zcashd and Zebrad network client nodes to connect via Tor,facilitating much greater levels of privacy for Zcash users. 
+Zcash is an open-source decentralized privacy protecting digital currency. Using zk-snarks, Zcash offers the strongest privacy available on a public blockchain. The primary Zcash client Zcashd can currently support connections over Tor but the user has several extra steps they have to go through to do so. Arti, when complete, will make it easier for Zcashd and Zebrad network client nodes to connect via Tor, thereby facilitating much greater levels of network privacy for Zcash users. 
 
 Much more than a tool for a single network, Arti will help drive the next generation client that will benefit all Tor users. Arti plans to prioritize its API for usefulness and stability, maintain strong protocol security, and work towards future parity with Tor's current C implementation.
 
