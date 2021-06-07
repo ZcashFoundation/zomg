@@ -9,7 +9,7 @@ The Tor Project is well known for its effort to bring private access to an uncen
 
 Zcash is an open-source decentralized privacy protecting digital currency. Using zk-snarks, Zcash offers the strongest privacy available on a public blockchain. The primary Zcash client Zcashd can currently support connections over Tor but the user has several extra steps they must go through to do so. Arti, when complete, will make it easier for Zcashd and Zebrad network client nodes to include built-in Tor support, thereby facilitating much greater levels of network-layer privacy for Zcash users.
 
-Furthermore, thanks to Tor's censorship circumvention capabilities, Arti could someday allow users in counties with heavily censored Internet to use Zcash.
+Furthermore, thanks to Tor's censorship circumvention capabilities, Arti could someday allow users in countries with heavily censored Internet to use Zcash.
 
 Key Zcash teams, such as Electric Coin Company, Zecwallet, and Nighthawk Wallet have indicated interest in using Arti to ship built-in Tor support with their products, and Zcash Foundation has committed to building Arti into its Rust-based Zcash node, Zebrad.
 
