@@ -3,7 +3,7 @@
 
 Zcash Open Major Grants (ZOMG) is pleased to announce a grant of $670,000 to the Tor Project, to build a Rust implementation of Tor that will let Zcash developers ship Tor "built-in" with widely-used Zcash tools. 
 
-ZOMG believes that privacy is a fundamental human right and we are proud to support the Tor project in an effort to bring increased network-layer privacy and censorship-resistance to Zcash users. 
+ZOMG believes that privacy is a fundamental human right and we are proud to support The Tor Project in an effort to bring increased network-layer privacy and censorship-resistance to Zcash users. 
 
 The Tor Project is well known for its effort to bring private access to an uncensored internet to everyone in the world, and Tor has become one of the world's strongest tools for privacy and freedom online. Tor's new Rust implementation Arti, an acronym for "A Rust Tor Implementation," will be built from the ground up to give Tor a next generation codebase that will focus on flexibility in embedding, straightforward maintenance, flexible deployment, and performance. 
 
