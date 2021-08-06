@@ -2,7 +2,7 @@
 nav_order: 5
 ---
 
-# Blog
+# Whitepaper
 
 ## The ZOMG whitepaper: how we see the world
 Date: 6 June 2021
